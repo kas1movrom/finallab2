@@ -1,0 +1,7 @@
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/CMakeFiles/finallab2.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/CMakeFiles/prog_testing.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/liblab2/CMakeFiles/lib.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/liblab2/CMakeFiles/edit_cache.dir
+C:/Users/romka/CLionProjects/finallab2/cmake-build-debug/liblab2/CMakeFiles/rebuild_cache.dir
