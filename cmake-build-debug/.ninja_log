@@ -15,3 +15,6 @@
 8	1448	7171094228083525	CMakeFiles/finallab2.dir/tests.cpp.obj	a0305babe745c987
 4	1298	7171102306853619	CMakeFiles/prog_testing.dir/tests/tests.cpp.obj	c59f571c002b70e7
 7	745	7171123745783466	finallab2.exe	399fc973adb0e8b3
+25	1116	7171126540543333	liblab2/CMakeFiles/lib.dir/src/Message.cpp.obj	1ddc1ee918e778a7
+1117	1377	7171126543186987	liblab2/liblib.a	1621ef7c03ef2182
+10	2333	7171126552746615	CMakeFiles/prog_testing.dir/tests/tests.cpp.obj	c59f571c002b70e7

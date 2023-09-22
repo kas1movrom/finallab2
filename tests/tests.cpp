@@ -3,6 +3,8 @@
 //
 #include "catch2.hpp"
 
+#define CATCH_CONFIG_MAIN
+
 #include "../liblab2/include/Message.h"
 #include "../liblab2/include/Queue.h"
 
