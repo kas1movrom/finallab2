@@ -110,8 +110,9 @@ namespace Mes {
     }
 
     std::ostream &operator<<(std::ostream &c, const Message &message) {
+        time_t tot = message.getTime();
         c << message.textMessage << std::endl << message.chatNameMessage << std::endl
-            << std::asctime(localtime(&message.timeMessage)) << std::endl;
+            << std::asctime(localtime(&tot)) << std::endl;
         return c;
     }
 
